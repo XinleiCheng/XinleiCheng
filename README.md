@@ -1,6 +1,6 @@
 # Hi, I'm Xinlei Cheng 👋
  
-Data scientist and data analyst with a passion for turning complex data into actionable insights. Currently pursuing my Master's in Quantitative Methods in Social Sciences (Data Science Track) at **Columbia University**, building on a foundation in Computer Science and Economics from **Boston University**.
+Data scientist and data analyst with a passion for turning complex data into actionable insights. Currently pursuing my Master's in Quantitative Methods in Social Sciences (Data Science Track) at **Columbia University**, Strong foundation in Computer Science and Economics from **Boston University**.
  
 I enjoy working at the intersection of **machine learning**, **quantitative analysis**, and **data engineering** — whether that means architecting RAG pipelines, optimizing investment portfolios, or uncovering patterns in large-scale datasets.
  

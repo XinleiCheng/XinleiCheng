@@ -8,12 +8,10 @@ I enjoy working at the intersection of **machine learning**, **quantitative anal
  
 ## 🔭 What I've Been Working On
  
-- **Consumer Data Science @ Midea** *(Summer 2026)* — Incoming Data Science Intern in the Laundry division, working on sentiment analysis, LLM-powered insights extraction from customer reviews, and building dashboards in AWS to support product decisions.
+- **Portfolio Management Intern @ IMF** *(Summer 2026)* — Assist Project Managers in ensuring adherence to project standards across the portfolio and work with AI developer to deploy PM/PMO AI Use cases to streamline portfolio management operations and reporting.
 - **Health Data Research Analyst@ Columbia Nursing** — Student Research Worker supporting an NIH-funded cardiovascular health study, applying machine learning to identify patterns in health behaviors and social determinants across diverse populations, and managing multi-modal data collection pipelines.
-- **Generative AI for Government @ IBM x Columbia** — Built an AI assistant chatbot that helped FDA project managers access policy guidance 3x faster, powered by a ChromaDB vector database and automated RAG workflows.
+- **Generative AI for FDA @ IBM x Columbia** — Built an AI assistant chatbot that helped FDA project managers access policy guidance 3x faster, powered by a ChromaDB vector database and automated RAG workflows.
 - **Quantitative Finance @ Yinhua Fund** — Developed portfolio optimization pipelines and backtesting frameworks, demonstrating measurably improved risk-adjusted returns across 50+ securities.
-- **Social Impact Research** — Constructed panel datasets spanning 217 countries and 31 years to study the relationship between violence and education, using fixed-effects regression and rigorous model diagnostics.
-- **Income Disparity Analysis** — Built an interactive R Shiny dashboard enabling stakeholders to explore post-graduation earnings across 6,400+ colleges and 48 states.
 ---
  
 ## 🛠️ Technical Toolkit

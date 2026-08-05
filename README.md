@@ -13,11 +13,8 @@ I am currently exploring new-grad opportunities in **Applied AI, Software Engine
 ## 🚀 Featured Projects
 
 - **AI Job Application Tracker** - A bilingual, full-stack platform that automatically organizes job applications and identifies recruiting updates from Gmail.
-
 - **Enterprise RAG Assistant — IBM × Columbia** - A generative AI assistant that helps project managers retrieve policy guidance from large collections of government documentation.
-
 - **Credit Default Risk Prediction** - An end-to-end machine learning pipeline for identifying high-risk loan applicants in a severely imbalanced dataset.
-
 - **Income Disparity Analysis Across US Colleges** - Analyzing the Interplay of Racial Composition, Socioeconomic Status, and Post-Grad Earnings in Higher Education
 
 ## 💼 Experience
@@ -30,14 +27,14 @@ I am currently exploring new-grad opportunities in **Applied AI, Software Engine
  
 ## 🛠️ Technical Toolkit
  
-**Languages:** Python · R · Java · SQL  
-**Backend & APIs:** Spring Boot · FastAPI · Flask · Node.js · Next.js · RESTful APIs · OpenAI API · LangChain
-**Frontend:** React · Shiny
-**Cloud & DevOps:** AWS (EC2, EKS, Lambda, API Gateway, S3) · Docker · Kubernetes · CI/CD · Git · GitHub Actions
-**Data Science & ML:** Pandas · NumPy · Scikit-Learn · Statsmodels · TensorFlow · PyTorch  
-**Visualization:** Matplotlib · Seaborn · ggplot2 · Tableau · Power BI · Shiny  
-**Data Engineering:** ETL Pipelines · ChromaDB · Databricks · APIs  
-**Other:** Git · Jupyter · Excel · STATA
+- **Languages:** Python · R · Java · SQL  
+- **Backend & APIs:** Spring Boot · FastAPI · Flask · Node.js · Next.js · RESTful APIs · OpenAI API · LangChain
+- **Frontend:** React · Shiny
+- **Cloud & DevOps:** AWS (EC2, EKS, Lambda, API Gateway, S3) · Docker · Kubernetes · CI/CD · Git · GitHub Actions
+- **Data Science & ML:** Pandas · NumPy · Scikit-Learn · Statsmodels · TensorFlow · PyTorch  
+- **Visualization:** Matplotlib · Seaborn · ggplot2 · Tableau · Power BI · Shiny  
+- **Data Engineering:** ETL Pipelines · ChromaDB · Databricks · APIs  
+- **Other:** Git · Jupyter · Excel · STATA
  
 ---
  

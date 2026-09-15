@@ -20,8 +20,8 @@ I am currently exploring new-grad opportunities in **Applied AI, Software Engine
 ## 💼 Experience
 
 - **Applied AI Intern @ IMF** *(Summer 2026)* — Assist Project Managers in ensuring adherence to project standards across the portfolio and work with AI developer to deploy PM/PMO AI Use cases to streamline portfolio management operations and reporting.
-- **Data Research Analyst@ Columbia Nursing** — Student Research Worker supporting an NIH-funded cardiovascular health study, applying machine learning to identify patterns in health behaviors and social determinants across diverse populations, and managing multi-modal data collection pipelines.
-- **Generative AI for FDA @ IBM x Columbia** — Built an AI assistant chatbot that helped FDA project managers access policy guidance 3x faster, powered by a ChromaDB vector database and automated RAG workflows.
+- **Research Assistant @ Columbia Nursing** — Student Research Worker supporting an NIH-funded cardiovascular health study, applying machine learning to identify patterns in health behaviors and social determinants across diverse populations, and managing multi-modal data collection pipelines.
+- **Generative AI and Data Engineering @ IBM x Columbia** — Built an AI assistant chatbot that helped FDA project managers access policy guidance 3x faster, powered by a ChromaDB vector database and automated RAG workflows.
 - **Quantitative Finance @ Yinhua Fund** — Developed portfolio optimization pipelines and backtesting frameworks, demonstrating measurably improved risk-adjusted returns across 50+ securities.
 ---
  
